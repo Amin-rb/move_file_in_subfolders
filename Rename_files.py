@@ -26,5 +26,5 @@ for index, filename in enumerate(image_files, start=1):  # start=86773
     
     shutil.copy(old_path, new_path)
 
-print("تمام فایل‌ها تغییر نام داده شده و در فولدر جدید ذخیره شدند.")
+print("Done.")
 
