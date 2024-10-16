@@ -8,8 +8,8 @@ Created on Tue Oct  8 23:16:29 2024
 import os
 import shutil
 
-input_folder = "C:/Users/Amin/Desktop/Face/women"
-output_folder = "C:/Users/Amin/Desktop/Face/women_new_wednesday"
+input_folder = ""
+output_folder = ""
 
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
